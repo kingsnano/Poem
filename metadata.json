@@ -1,0 +1,5 @@
+{
+  "name": "Poem Canvas",
+  "description": "An AI-powered application that transforms poems into beautiful, artistic backgrounds. Users can provide a poem through text input or by uploading an image, and the AI will analyze its mood and imagery to generate a fitting visual masterpiece.",
+  "requestFramePermissions": []
+}
